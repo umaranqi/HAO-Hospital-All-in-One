@@ -4090,29 +4090,6 @@
         <IconIndex>1789</IconIndex>
     </GameDBSymptom>
 
-    <GameDBSymptom ID="SYM_ORIFICE_BLEEDING">
-        <DescriptionLocID>SYM_ORIFICE_BLEEDING_DESCRIPTION</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>true</PatientComplains>
-        <Hazard>High</Hazard>
-
-        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_HEMORRHAGIC_FEVER</CollapseSymptomRef>
-
-        <PatientMobility>MOBILE</PatientMobility>
-        <Examinations>
-            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-        </Examinations>
-        <Treatments>
-            <TreatmentRef>TRT_BLOOD_COMPONENT_THERAPY</TreatmentRef>
-        </Treatments>
-        <ShameLevel>90</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <IconIndex>2178</IconIndex>
-    </GameDBSymptom>
-
     <GameDBSymptom ID="SYM_INCREASED_ICP">
         <DescriptionLocID>SYM_INCREASED_ICP_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>

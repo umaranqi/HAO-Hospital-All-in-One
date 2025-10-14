@@ -1708,8 +1708,9 @@
                 </RequiredEquipment>
             </RequiredEquipmentList>
             <RequiredRoomTags>
-                <Tag>examinations_basic_equipment</Tag>
+                <Tag>sh_office</Tag>
                 <Tag>ward</Tag>
+                <Tag>icu</Tag>
             </RequiredRoomTags>
             <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
             <AnimationSetupSitting>
