@@ -6597,13 +6597,10 @@
             </RequiredEquipmentList>
 
             <RequiredRoomTags>
-                <Tag>cardiology_office</Tag>
-                <Tag>general_surgery_office</Tag>
+                <Tag>any_office</Tag>
+                <Tag>any_inpatient_office</Tag>
                 <Tag>ward</Tag>
-                <Tag>hospitalization</Tag>
-                <Tag>hospitalization_high</Tag>
                 <Tag>icu</Tag>
-                <Tag>diag_office</Tag>
             </RequiredRoomTags>
             <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
             <DressLevel>FULL</DressLevel>

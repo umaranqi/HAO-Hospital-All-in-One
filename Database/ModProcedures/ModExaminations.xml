@@ -4787,11 +4787,6 @@
                     <BlocksSpecialist>true</BlocksSpecialist>
                 </RequiredEquipment>
                 <RequiredEquipment>
-                    <Tag>stat_lab_exam</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
                     <Tag>RIA</Tag>
                     <DurationHours>0.1</DurationHours>
                     <BlocksSpecialist>false</BlocksSpecialist>
