@@ -2843,6 +2843,8 @@
                 <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>

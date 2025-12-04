@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-	<GameDBStringTable ID="LOC_EN_ADDON_CRP_OTOR_SYMPTOMS">
-	<LanguageCode>en</LanguageCode>
-	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<GameDBStringTable ID="LOC_KR_ADDON_CRP_OTOR_SYMPTOMS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
 	<Contributors>
-	<Name>James B</Name>
+	<Name>바굴</Name>
 	</Contributors>
 	<LocalizedStrings>
 	 
@@ -14,127 +14,127 @@
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_NASAL_POLYP</LocID>                 
-		 <Text>Nasal polyps</Text>  
+		 <Text>비용종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SINUS_FINDINGS</LocID>                               
-		 <Text>Nasal Findings</Text>  
+		 <Text>비강 소견</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NASAL_DRIP</LocID>                 
-		 <Text>Post nasal drip</Text>  
+		 <Text>후비루</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NASAL_DRIP_DESCRIPTION</LocID>     
-		 <Text>Post nasal drip is mucus from your nose and it drips harmlessly down the back of your throat, and you swallow it. </Text>  
+		 <Text>부비강에서 분비하는 분비물이 목에 고이거나, 목으로 넘어가는 질환을 의미합니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_INFLAMMED_RH</LocID>                 
-		 <Text>Inflammed nasal cavities</Text>  
+		 <Text>비강 염증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_INFLAMMED_RH_DESCRIPTION</LocID>     
-		 <Text>The patient's nasal cavity is inflammed. </Text>  
+		 <Text>환자의 비강에 염증이 있습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_INFLAMMED_SINUSES</LocID>                 
-		 <Text>Inflamed Sinuses</Text>  
+		 <Text>부비동 염증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_INFLAMMED_SINUSES_DESCRIPTION</LocID>     
-		 <Text>Inflamed mucous tissue lining that covers the sinuses. </Text>  
+		 <Text>염증이 있는 점막 조직이 부비동을 덮고 있습니다. </Text>  
 		</GameDBLocalizedString>
 			
 	    <GameDBLocalizedString>    
 		 <LocID>SYM_CRP_SINUS_FINDINGS_DESCRIPTION</LocID>                               
-		 <Text>Nasal findings has been found by a CT.</Text>  
+		 <Text>CT 촬영 결과, 비강 질환을 나타내는 증상들을 발견하였습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_NASAL_DRAINAGE</LocID>                               
-		 <Text>Nasal Discharge</Text>  
+		 <Text>콧물</Text>  
 		</GameDBLocalizedString>
 			
 	    <GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NASAL_DRAINAGE_DESCRIPTION</LocID>                               
-		 <Text>The patient has unidentified fluids coming from the nose.</Text>  
+		 <Text>환자의 코에서 액체가 흐릅니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_SNORING</LocID>                 
-		 <Text>Snoring</Text>  
+		 <Text>코골이</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_SNORE_DESCRIPTION</LocID>     
-		 <Text>Snoring is the action or fact of making a snorting or grunting sound while asleep. It may indicate Obstructive Sleep Apnea</Text>  
+		 <Text>코골이는 잠든 상태에서 코를 골거나 신음하는 소리를 내는 행위입니다. 이는 폐쇄성 수면 무호흡증을 나타낼 수 있습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_IRREGULAR_NASAL_CYCLE</LocID>                 
-		 <Text>Irregular Nasal Cycle</Text>  
+		 <Text>불규칙적 비주기</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_IRREGULAR_NASAL_CYCLE_DESC</LocID>     
-		 <Text>The nasal cycle is the often unnoticed alternating partial congestion and decongestion of the nasal cavities in humans and other animals. It is a physiological congestion of the nasal conchae, also called the nasal turbinates, due to selective activation of one half of the autonomic nervous system by the hypothalamus. It should not be confused with pathological nasal congestion. In this case the nasal cycle is irregular and this might be a sign of something wrong with the nose or the nerves connecting to the nose. </Text>  
+		 <Text>비주기는 양측 코 점막 혈관의 혈액량 변화로 인해 자연적으로 비강의 수축과 팽창이 일어나는 현상입니다. 병리학적 비강 울혈과 혼동해서는 안 됩니다. 이 경우 비강 순환이 불규칙하여 코나 코에 연결된 신경에 문제가 있다는 신호일 수 있습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_DIFFICULTY_BREATHING_THROUGH_NOSE</LocID>                 
-		 <Text>Difficulty Breathing through the nose</Text>  
+		 <Text>코막힘</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>  
 		 <LocID>SYM_CRP_DIFFICULTY_BREATHING_THROUGH_NOSE_DESC</LocID>     
-		 <Text>The patient is having difficulties breathing through their nose. </Text>  
+		 <Text>환자가 코로 숨쉬기를 어려워합니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_DRY_NOSE</LocID>                 
-		 <Text>Dry Nose</Text>  
+		 <Text>건조한 코</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_DRY_NOSE_DESC</LocID>     
-		 <Text>The patient's nose is dry. </Text>  
+		 <Text>환자의 코가 건조합니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NASAL_PAIN</LocID>                 
-		 <Text>Nasal Pain</Text>  
+		 <Text>코 통증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_NASAL_PAIN_DESC</LocID>     
-		 <Text>The patient's nose is hurting. </Text>  
+		 <Text>환자가 코에 통증을 호소합니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_LOSS_OF_SMELL_OR_TASTE</LocID>                 
-		 <Text>Loss of Smell and/or Taste</Text>  
+		 <Text>미각 및 후각 상실</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_LOSS_OF_SMELL_OR_TASTE_DESC</LocID>     
-		 <Text>The patient has a loss of smell and/or taste. </Text>  
+		 <Text>환자가 미각 및 후각을 상실했습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_NOSE_DAMAGE</LocID>                 
-		 <Text>Nasal Damage</Text>  
+		 <Text>코 부상</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_NOSE_DAMAGE_DESCRIPTION</LocID>     
-		 <Text>The patient's nose is damaged. </Text>  
+		 <Text>환자가 코에 부상을 입었습니다. </Text>  
 		</GameDBLocalizedString>
 		
       
@@ -142,32 +142,32 @@
 		
 		<GameDBLocalizedString> 
 		 <LocID>SYM_CRP_EAR_PRESSURE</LocID>                 
-		 <Text>Pressure in the Ears</Text>  
+		 <Text>이충만감</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_EAR_PRESSURE_DESCRIPTION</LocID>     
-		 <Text>The patient feels like they have pressure in their ears or their ears feel full.</Text>  
+		 <Text>귀가 먹먹하거나 꽉 막힌 듯 답답합니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString> 
 		 <LocID>SYM_CRP_EAR_DAMAGE</LocID>                 
-		 <Text>Ear Damage</Text>  
+		 <Text>귀 부상</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_EAR_DAMAGE_DESCRIPTION</LocID>     
-		 <Text>The patient ear is damaged due to some kind of trauma or disease.</Text>  
+		 <Text>환자가 귀에 부상을 입었습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString> 
 		 <LocID>SYM_CRP_EAR_DEFORMITY</LocID>                 
-		 <Text>Ear Deformity</Text>  
+		 <Text>귀 기형</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>  
 		 <LocID>SYM_CRP_EAR_DEFORMITY_DESCRIPTION</LocID>     
-		 <Text>The patient's ear is deformed.</Text>  
+		 <Text>환자의 귀가 기형입니다.</Text>  
 		</GameDBLocalizedString>
 		
 	 
@@ -175,92 +175,92 @@
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NECK_INJURY</LocID>                 
-		 <Text>Neck injury</Text>  
+		 <Text>목 부상</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_NECK_INJURY_DESCRIPTION</LocID>     
-		 <Text>The patient experienced a neck injury. </Text>  
+		 <Text>환자가 목에 부상을 입었습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SWOLLEN_NECK</LocID>                 
-		 <Text>Swollen neck</Text>  
+		 <Text>목 부음</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SWOLLEN_NECK_DESCRIPTION</LocID>     
-		 <Text>The patient has a swollen neck. </Text>  
+		 <Text>환자의 목이 부었습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>
 		 <LocID>SYM_CRP_MOUTH_DRAINAGE</LocID>                 
-		 <Text>Mouth Drainage</Text>  
+		 <Text>침과다증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_MOUTH_DRAINAGE_DESCRIPTION</LocID>     
-		 <Text>The patient has unidentified fluids coming from the mouth.</Text>  
+		 <Text>환자의 입에서 액체가 흐릅니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>
 		 <LocID>SYM_CRP_DRY_MOUTH</LocID>                 
-		 <Text>Xerostomia</Text>  
+		 <Text>구강건조증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_DRY_MOUTH_DESCRIPTION</LocID>     
-		 <Text>Xerostomia means dry mouth, the patient's mouth is dry.</Text>  
+		 <Text>환자의 입이 건조합니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>
 		 <LocID>SYM_CRP_HYPOSALIVATION</LocID>                 
-		 <Text>Hyposalivation</Text>  
+		 <Text>침분비저하증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_HYPOSALIVATION_DESCRIPTION</LocID>   
-		 <Text>The patient's mouth isn't producing saliva that much, causing the patient's mouth to be dry.</Text>  
+		 <Text>환자의 입에서 침이 많이 나오지 않아 입이 건조해집니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>
 		 <LocID>SYM_CRP_SIALOLITHIASIS</LocID>                 
-		 <Text>Sialolithiasis</Text>  
+		 <Text>타석증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SIALOLITHIASIS_DESCRIPTION</LocID>     
-		 <Text>Sialolithiasis is the medical term for salivary gland stones. These stones, or calculi, are mostly composed of calcium, but they also contain magnesium, potassium, and ammonium. Your mouth has three salivary glands that can develop stones: parotid, submandibular, sublingual, and minor salivary glands.</Text>  
+		 <Text>타석증은 침을 생산하는 기관인 침샘(타액선)이나 침샘으로부터 입 안쪽으로 연결된 침샘관, 타액선관에 석회 물질, 이물질, 세균 등이 뭉쳐서 침의 통로를 막아서 발생하는 질환입니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_PSEUDOMEMBRANE</LocID>                 
-		 <Text>Pseudomembrane</Text>  
+		 <Text>거짓막</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_PSEUDOMEMBRANE_DESCRIPTION</LocID>     
-		 <Text>A pseudomembrane is a false membrane in the eye or throat that sometimes develops during infections and inflammations. It typically covers the conjunctiva, or the white part of the eyes, and can be very uncomfortable, and a pseudomembrane also develops when the patient has Diphtheria. </Text>  
+		 <Text>거짓막은 감염 또는 염증에 의해 때때로 발생하는 눈이나 목의 위막입니다. 일반적으로 결막 또는 눈의 흰색 부분을 덮고 매우 불편할 수 있으며, 환자가 디프테리아에 걸리면 발생하는 경우가 있습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_VOCAL_POLYP_HEMORRHAGE</LocID>                 
-		 <Text>Hemorrhagic Vocal Polyp</Text>  
+		 <Text>출혈성 성대 용종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_VOCAL_POLYP_HEMORRHAGE_DESCRIPTION</LocID>     
-		 <Text>A Vocal Polyp has hemorrhaged in the patient</Text>  
+		 <Text>성대 용종에서 출혈이 발생했습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_LUMP_IN_THROAT</LocID>                 
-		 <Text>Lump in Throat</Text>  
+		 <Text>인두이물감</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_LUMP_IN_THROAT_DESCRIPTION</LocID>     
-		 <Text>A lump in the throat has been found in the patient</Text>  
+		 <Text>환자가 목에 지속적인 이물감을 호소합니다.</Text>  
 		</GameDBLocalizedString>
 	 
 	 
@@ -269,42 +269,42 @@
 	 
 	    <GameDBLocalizedString> 
 		 <LocID>SYM_CRP_FACIAL_PRESSURE</LocID>                 
-		 <Text>Facial Pressure</Text>  
+		 <Text>안면 압박감</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_FACIAL_PRESSURE_DESC</LocID>     
-		 <Text>The patient feels pressure on their face.</Text>  
+		 <Text>얼굴이 눌리는 듯한 압박감을 느낍니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString> 
 		 <LocID>SYM_CRP_FACIAL_PAIN</LocID>                 
-		 <Text>Facial Pain</Text>  
+		 <Text>안면통증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_FACIAL_PAIN_DESC</LocID>     
-		 <Text>The patient feels pain on their face.</Text>  
+		 <Text>환자가 얼굴에 통증을 호소합니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>  
 		 <LocID>SYM_CRP_FACIAL_WEAKNESS</LocID>                 
-		 <Text>Facial Weakness</Text>  
+		 <Text>안면근육 약화</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_FACIAL_WEAKNESS_DESC</LocID>     
-		 <Text>The patient's is weak due to some sort of trauma or disease of the facial nerve.</Text>  
+		 <Text>외상 또는 안면신경의 질병으로 인해 안면근육이 약화되었습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>  
 		 <LocID>SYM_CRP_FACIAL_DEFORMITY</LocID>                 
-		 <Text>Facial Deformity</Text>  
+		 <Text>안면 기형</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_FACIAL_DEFORMITY_DESC</LocID>     
-		 <Text>The patient's is deformed.</Text>  
+		 <Text>환자의 얼굴이 기형입니다.</Text>  
 		</GameDBLocalizedString>
 	 
 	 
@@ -312,32 +312,32 @@
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SQLL_CARCINOMA_BLOOD_MARKERS</LocID>                               
-		 <Text>Squamous Cell Carcinoma Blood Markers</Text>  
+		 <Text>편평세포암 종양 표지자</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SQLL_CARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
-		 <Text>A blood test reveals blood markers like CA-125, CA-19-9 and SCC antigens are elevated, pointing towards a Squamous Cell Carcinoma tumour somewhere. </Text>  
+		 <Text>혈액 검사 결과 CA-125, CA-19-9, SCC 항원과 같은 혈액 표지자가 상승한 것으로 나타났으며, 이는 어딘가에 편평세포암 종양이 있음을 나타냅니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ADENOCARCINOMA_BLOOD_MARKERS</LocID>                               
-		 <Text>Adenocarcinoma Blood Markers</Text>  
+		 <Text>선암종 표지자</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ADENOCARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
-		 <Text>A blood test reveals certain blood markers are elevated, pointing towards a Adenocarcinoma tumour somewhere. </Text>  
+		 <Text>혈액 검사 결과 특정 혈액 표지자가 상승한 것으로 나타났으며, 이는 어딘가에 있는 선암 종양을 가리킵니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_MELANOMA_BLOOD_MARKERS</LocID>                               
-		 <Text>Melanoma Blood Markers</Text>  
+		 <Text>흑색종 표지자</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_MELANOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
-		 <Text>A blood test reveals certain blood markers antigens are elevated pointing towards a Melanoma tumour somewhere. </Text>  
+		 <Text>혈액 검사 결과, 특정 혈액 표지자 항원이 상승하여 흑색종 종양을 가리키고 있는 것으로 나타났습니다. </Text>  
 		</GameDBLocalizedString>
 
 	 
@@ -345,12 +345,12 @@
 		
 		<GameDBLocalizedString>  
 		 <LocID>SYM_CRP_ACID_REFLUX</LocID>                 
-		 <Text>Acid Reflux</Text>  
+		 <Text>속쓰림</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>   
 		 <LocID>SYM_CRP_ACID_REFLUX_DESCRIPTION</LocID>     
-		 <Text>Heartburn is a painful burning feeling in your chest or throat. It happens when stomach acid backs up into your esophagus, the tube that carries food from your mouth to your stomach. Treatment for heartburn is antacids or proton pump inhibitors. </Text>  
+		 <Text>속쓰림은 가슴이나 목의 타는 듯한 통증을 말합니다. 위산이 식도로 역류할 때 발생합니다. </Text>  
 		</GameDBLocalizedString>
 		
      
@@ -358,42 +358,42 @@
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_PNEUMONIA</LocID>                 
-		 <Text>Pneumonia</Text>  
+		 <Text>폐렴</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_PNEUMONIA_DESCRIPTION</LocID>     
-		 <Text>Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia.Without treating bacterial pneumonia it can lead to complications like respiratory failure. </Text>  
+		 <Text>검사 결과, 폐렴이 발견되었습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ARDS</LocID>                 
-		 <Text>Acute Respiratory Distress Syndrome (ARDS)</Text>  
+		 <Text>급성 호흡곤란 증후군(ARDS)</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ARDS_DESCRIPTION</LocID>     
-		 <Text>Acute respiratory distress syndrome (ARDS) is a type of respiratory failure characterized by rapid onset of widespread inflammation in the lungs. Symptoms include shortness of breath, rapid breathing, and bluish skin coloration. </Text>  
+		 <Text>급성 호흡곤란 증후군(ARDS)은 폐에 광범위한 염증이 빠르게 발생하는 호흡 부전의 일종입니다. 증상으로는 호흡곤란, 빠른 호흡, 푸르스름한 피부색 등이 있습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_STRIDOR</LocID>                 
-		 <Text>Stridor</Text>  
+		 <Text>협착음</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
 		 <LocID>SYM_CRP_STRIDOR_DESCRIPTION</LocID>     
-		 <Text>Stridor is a high-pitched, wheezing sound caused by disrupted airflow. Stridor may also be called musical breathing or extrathoracic airway obstruction. Airflow is usually disrupted by a blockage in the larynx (voice box) or trachea (windpipe). Stridor affects children more often than adults.</Text>  
+		 <Text>협착음은 호흡 시 발생하는 높고 쌕쌕거리는 소리를 뜻하는 의학 용어로, 종종 기도 폐쇄를 나타냅니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_DECREASED_PITCH_AND_LOUDNESS</LocID>                 
-		 <Text>Decreased Pitch and Loudness</Text>  
+		 <Text>목소리 음역과 크기 감소</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
 		 <LocID>SYM_CRP_DECREASED_PITCH_AND_LOUDNESS_DESCRIPTION</LocID>     
-		 <Text>The patient has decreased pitch range and loudness</Text>  
+		 <Text>환자의 목소리의 음역과 크기가 감소했습니다.</Text>  
 		</GameDBLocalizedString>
 		
 	
@@ -401,22 +401,22 @@
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SEVERE_PAIN</LocID>                 
-		 <Text>Severe pain</Text>  
+		 <Text>극심한 통증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_SEVERE_PAIN_DESCRIPTION</LocID>     
-		 <Text>Patient is experiencing intense amount of pain. </Text>  
+		 <Text>환자가 극심한 통증을 호소합니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ENCEPHALITIS</LocID>                 
-		 <Text>Encephalitis</Text>  
+		 <Text>뇌염</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		 <LocID>SYM_CRP_ENCEPHALITIS_DESCRIPTION</LocID>     
-		 <Text>Encephalitis (en-sef-uh-LIE-tis) is inflammation of the brain. There are several causes, but the most common is a viral infection. Encephalitis often causes only mild flu-like signs and symptoms — such as a fever or headache — or no symptoms at all. Sometimes the flu-like symptoms are more severe. Encephalitis can also cause confused thinking, seizures, or problems with movement or with senses such as sight or hearing. In some cases, encephalitis can be life-threatening. Timely diagnosis and treatment are important because it's difficult to predict how encephalitis will affect each individual. </Text>  
+		 <Text>검사 결과, 뇌실질의 염증성 질환이 발견되었습니다. </Text>  
 		</GameDBLocalizedString>
 	    
 	</LocalizedStrings>

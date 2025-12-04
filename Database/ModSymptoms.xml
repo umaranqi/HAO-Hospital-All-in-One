@@ -4561,7 +4561,7 @@
             <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
         </Treatments>
 
-
+        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
         <ShameLevel>5</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>2106</IconIndex>
@@ -7868,7 +7868,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>25</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -7905,7 +7906,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -7984,7 +7986,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
