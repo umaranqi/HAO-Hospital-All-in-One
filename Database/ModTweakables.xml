@@ -46,7 +46,7 @@
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_LEAVE_WARNING_HOURS">
-        <Value>236.0</Value>
+        <Value>4.0</Value>
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_MAX_WAIT_TIME_HOURS">
