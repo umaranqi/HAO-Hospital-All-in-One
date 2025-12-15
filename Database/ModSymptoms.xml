@@ -8241,8 +8241,8 @@
         <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON006_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
 
-    <GameDBSymptom ID="SYM_CRP_SNORE">
-        <DescriptionLocID>SYM_CRP_SNORE_DESCRIPTION</DescriptionLocID>
+    <GameDBSymptom ID="SYM_CRP_SNORING">
+        <DescriptionLocID>SYM_CRP_SNORING_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>true</PatientComplains>
         <Hazard>Medium</Hazard>
