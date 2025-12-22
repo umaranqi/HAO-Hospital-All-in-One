@@ -18287,6 +18287,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>Üroloji ve Nefroloji</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>Nefes darlığı</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>Nefes darlığı, akciğerlerinize yeterince hava alamadığınız hissidir.</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>

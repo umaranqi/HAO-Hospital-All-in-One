@@ -14495,6 +14495,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>Urologie et Néphrologie</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>Essoufflement</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>L'essoufflement est la sensation de ne pas pouvoir remplir suffisamment vos poumons d'air.</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>

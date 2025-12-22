@@ -16755,6 +16755,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>Urologia e Nefrologia</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>Mancanza di respiro</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>La mancanza di respiro è la sensazione di non riuscire a far entrare abbastanza aria nei polmoni.</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>

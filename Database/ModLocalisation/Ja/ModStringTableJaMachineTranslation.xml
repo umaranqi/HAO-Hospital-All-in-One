@@ -19287,6 +19287,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>泌尿器科と腎臓学</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>息切れ</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>息切れとは、肺に十分な空気が入らないと感じる状態です。</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>

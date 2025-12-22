@@ -17243,6 +17243,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>Urologia e Nefrologia</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>Falta de ar</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>A falta de ar é a sensação de que você não consegue inspirar ar suficiente para os pulmões.</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>

@@ -731,43 +731,6 @@
 
     <!-- Base -->
 
-    <GameDBTreatment ID="TRT_SALINE_NASAL_SPRAY">
-        <AbbreviationLocID>TRT_SALINE_NASAL_SPRAY_DESCRIPTION_V2</AbbreviationLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-
-            <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredSkillsToPrescribe>
-
-            <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredDoctorQualificationList>
-
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>receipt</Tag>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-
-            <RequiredRoomTags>
-                <Tag>receipt</Tag>
-            </RequiredRoomTags>
-
-            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
-
-            <DressLevel>FULL</DressLevel>
-            <DressLevelAfter>FULL</DressLevelAfter>
-        </Procedure>
-        <TreatmentType>RECEIPT</TreatmentType>
-        <PharmacyPickup>true</PharmacyPickup>
-        <Cost>120</Cost>
-        <IconIndex>1885</IconIndex>
-        <DurationHours>0</DurationHours>
-    </GameDBTreatment>
-
     <GameDBTreatment ID="TRT_VASODILATORS">
         <AbbreviationLocID>TRT_VASODILATORS_DESCRIPTION</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
