@@ -73,7 +73,7 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>    
-		 <LocID>SYM_CRP_SNORE_DESCRIPTION</LocID>     
+		 <LocID>SYM_CRP_SNORING_DESCRIPTION</LocID>     
 		 <Text>코골이는 잠든 상태에서 코를 골거나 신음하는 소리를 내는 행위입니다. 이는 폐쇄성 수면 무호흡증을 나타낼 수 있습니다. </Text>  
 		</GameDBLocalizedString>
 		

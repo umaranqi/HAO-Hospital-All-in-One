@@ -8003,6 +8003,8 @@
         <LocID>ADDON_MOD_URKN</LocID>
         <Text>비뇨기과 및 신장학</Text>
       </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH</LocID>            	       <Text>호흡 곤란</Text>  </GameDBLocalizedString>
+	  <GameDBLocalizedString>      <LocID>SYM_SHORTNESS_OF_BREATH_DESCRIPTION</LocID>            	       <Text>호흡곤란은 폐에 충분한 공기를 들이마실 수 없다는 느낌입니다.</Text>  </GameDBLocalizedString>
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>
